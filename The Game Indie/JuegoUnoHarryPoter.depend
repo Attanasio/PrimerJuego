@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1571034626 source:c:\users\usuario\desktop\juegounoharrypoter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1571799542 source:c:\users\usuario\desktop\the game indie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1572192352 source:c:\users\goxy\desktop\nico\codeblock\the game indie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
